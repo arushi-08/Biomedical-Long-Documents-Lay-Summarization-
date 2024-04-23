@@ -71,5 +71,7 @@ for idx, row in val_df.iterrows():
     except Exception as e:
         print(f"error occurred for {dataset} {idx}: ", e)
 
+    break
+
 
 print("\nValidation data inference complete")
