@@ -22,4 +22,4 @@ BioGPT inference pipeline: `python biogpt_inference.py`
 
 <hr />
 
-### Summaries saved in summary dir.
+Summaries saved in summary dir.
