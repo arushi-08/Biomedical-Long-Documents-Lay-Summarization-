@@ -1,0 +1,13 @@
+ Summary & Implications
+
+
+This paper describes novel methodology designed specifically  to eliminate contaminants, mainly derived due improper handling during isolation procedures. Additionally there exists inherent limitations regarding current genomics resources like poor representation across different taxonomic categories especially pertaining towards eukaryote pathogems,. Consequently leading researchers frequently encounter issues associated wtih accuracy errors stemming largely upon reliance solely based off outdated references combined inadequate clean up strategies employed throughout laboratory practices.. Through extensive filtering processes involving comparisons between newly generated pseudoreads versus established repositories coupled potent algorithms tailored explicitly meant detect contaminant profiles - namelyKraken--and subsequent refinement through dust masker utility resulted improved dataset cleanliness enabling enhanced precision amidst minimizing collateral damage caused inadvertently via erroneous interpretations arising out dated genetic material utilized routinely practice today.<br>
+
+
+
+**Main Findings:**<li>- Existing publicly accessible datasets harbor substantial amountscontamination originating mostly compromised isolates improperly handled post collection.</ li><p/>   	    * High prevalence observed instances whereby incorrectly labelled organism identities misled practitioners toward misleading conclusions impacting treatment efficacy outcomes negatively </LI>.
+
+
+
+
+The development presented here offers tangible solutions addressing aforementioned concerns paving path forward reliable utilization encompassing cutting edge methodologies aimed diagnosing infectious agents accurately leveraging advanced sequencig technologies without compromising integrity standards achieved thanks implementation stringent filtration protocols implemented meticulously crafted utilizing specialized applications dedicated tackling problematic scenarios commonly encountered therein.(e)g., kraken microbiome profiling).

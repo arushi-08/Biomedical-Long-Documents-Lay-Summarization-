@@ -1,0 +1,34 @@
+ Summary:  The paper describes comprehensive profiling, via Whole Bisulphite Seqencing Analysis，of dynamicDNA modifications occurring upon disruption DNMtЗа.
+
+
+**Key Findings:**
+
+
+
+* **Loss pf Global HypoMethyltion**: Loss if dn mtZla leads tp widespread hyopmethylation throughout teh proteomic landscape leading ta distinctive redistribution og existing repressive histone modification signals like HMH trimer binding onto laminas associatede Domains(LAD) instead spreading them evenly througout eh nucleus.(FigureS).   This finding highlights potential therapeutic targets involving modulationg dmTase inhibitors alongside targeting other pathways involvedin regulating transcription factor accessibility landscapes,(e g., HDAC inhibitor cocktails), could potentially improve treatment efficacy without compromising healthy cellular homeostasis mechanisms relying heavilyon intact lamins architecture.<br>
+
+
+
+
+ * ***Large Hypomthylted Domain Formation ****In response te dNmetza defect there’ s substantial expansion o flarge hypromyelinated domans spanning tens fo kilobASES rather tha smaller ones typically characterizing cancerous tumours,. Such extensive reorganization itogether wtih concomitant losses od heterochromatin marking complexes would reshape spatial arrangements ochchromosomes thereby impacting neighboring genic regulators dynamics underlying tumourigenesis processes.**
+
+
+
+
+
+
+
+***Additional Observations:*
+
+
+
+
+
+•	Dnmtl inhibition drives tumour promotion primarily trough altering regional scale topology nad bulk properties ot he mammalian genomes—rather tahn directly modulating promotor structures.;
+
+
+
+
+
+
+ • There exists considerable heterogeneity among individuals regarding susceptibility t DMtM dysfunction induced malignancy highlighting need fir personalized medicine approaches tailored toward subgroups comprising high risk populations susceptible tothe particular pathology.***

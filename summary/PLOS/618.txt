@@ -1,0 +1,34 @@
+ Summary & Analysis
+
+
+This manuscript introduces  partial Grangerr Causality, designed specifically address challenges encountered previously. Existing methodologies like Conditional GRangercausallity fail accounting properly accountforlatent varaiblesand exogenouseinputs leading potentially inaccurate interpretations especially concerning indirect effects across timescales..
+
+
+
+**Key Findings:**
+
+
+
+
+• **Partial grangersCausability**: Successfully calculatesGrangenr causlity considering simultaneous existenceofexogenousInputsAndLatent Variables(e g., hidden states)involvingtimedomainanalysisorspectraldecompositionTheapproach extends previous workby incorporatingthe notion oftconditionalvarianceto eliminate unwanted variability arisingfromcommon sources.(See Figures & Equations).   
+
+
+
+
+
+ • PartialgrangsCauaslty offers robustnessagainstnoiseintroducedthroughExogeneous Inputs And LatentVariables comparedwithConditionalGRranger Causalit y,(seeFigure﻿_Two_)Therefore providingmore accurate insightsintodirectinteractionsbetweenvariableswithincomplexsystems.<br>
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+ Applications:(Three Examples): <p/>    <b>HeLA Cell Cycle Gene Expression</b>:<BR>- DemonstratedhowactivationpatternsofthetranscriptionfactorNuclear Factor Kappa‐Βare reflectedongeneexpressiondynamicsduringcellcyclinecontrol;(Figures _three A – C)_ <P />     	       		           <strong>Lfp Data</strong>?<Br>. Provided evidencethattheta oscillations synchronizeacrossdifferentbrainregionsinvolvedinthevisualdiscriminationtask.;(<figurefour_-_Part_(c)-(f)>.) Also highlighted limitations associatedWithsamplingrate constraints impactingfasterdynamiccomponentsassociated WithnonCanonical PathwayOf NuclearFactorKappa—Beta rhythm synchronization appeared dominant overTheta rhythmic modulation suggesting possible cross talk tussenboth paths (<figuresfive_-part_[ab]>.).

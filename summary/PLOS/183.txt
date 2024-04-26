@@ -1,0 +1,34 @@
+ Summary & Conclusion
+
+
+This report summarizes key takeaways, limitations  and ongoing challenges related specifically towards modeling Rhoadesia Hatran african trypomascus rhodesiensis(HAT) Spatial Distribution.
+
+
+
+**Key Takeaways:**   
+
+
+
+
+* Livestock mobility plays major roles spreading RHAT throughout different geographic zones leading up widespread infections even beyond traditional boundaries defined according administrative units like Districts/Regions etc.. Therefore interventions designed primarily centered upon localized containment strategies might prove inadequate unless they consider cross -border dynamics driven mainly though illegal exportations practices commonly employed locally among farmers seeking better prices elsewhere outside agricultural lowlands characterized mostly near city centers,. Hence integrated approaches addressing root cause drivers alongside immediate clinical intervention remain paramount against combating hatr spreads successfully.<br>
+
+
+
+
+
+ * Model complexity should balance precision vs interpretability : While advanced methodologies offer enhanced estimations capabilities often accompanied reduced parametric assumptions enabling sophisticated inferences – especially concerning intricate interactions inherent natural systems -, ensuring transparency remains pivotal because overly complicated frameworks sometimes inadvertently obscure crucial insights readily grasped simpler ones offers instead.(e., See discussion section).<BR><Br/>
+
+
+
+
+
+
+
+ **Limitations**:
+
+
+
+
+
+
+• Limited Data Availability:- Lacking detailed distributional maps depicting actual densities / prevalences coupled directly onto landscapes features limiting our ability accurately estimate risks precisely pinpointing hotspots susceptible communities residing nearby specific ecosystems vulnerable environments prone harbor various pathogens posing substantial threats require extensive surveillance programs tailored toward mitigating them efficiently.&nbsp;&nbsp;(See Discussion Section)<P></li>-&bull;- Overfitting Concerns-: Though statistically valid outcomes achieved utilizing generalized Linear Geostatistical Models incorporated uncertainties arising naturally intrinsic variabilities exhibited geographically dispersed phenomena inherently challenging exact replication exactly replications aren‘t attainable nor necessarily desirable considering practical constraints prevailing resource allocation decisions must prioritize effectiveness demonstrably achievable goals.** < br>(see discussions sections)&NbSP;</LI>&bullet ;-Spatial Extrapolation Challenges-; Extrapolating modeled outputs pertaining solely confined observation domains raises cautionary flags owing discrepancies stemming partly attributable incomplete coverage attained initially collected primary datas sets limit generalizability considerably restricting applicability extrapolated forecasts widely applicable conclusions drawable from  limited sampling designs need careful scrutiny until expanded validation exercises confirm robustness amidst diverse scenarios.</Li>. </ol>,

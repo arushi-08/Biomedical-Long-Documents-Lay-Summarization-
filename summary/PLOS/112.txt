@@ -1,0 +1,19 @@
+ Summary & Analysis
+
+
+This text describes "Tissue Specific Prioritization Algorithm Based On Protein Interaction Networks" -  an article about prioritizing candidates causativegenes. It introduces challenges faced during traditional approaches, highlighting discrepancies arising because techniques mainly focus solely onto genomics without factoring spatial variations among organs /tissues ("generic assumptions"). Additionally,, issues like inaccurate representation stemming largely rely heavily utilized datasets comprising transcript profiling measures (“mRNA”) fail accurately reflecting proteome dynamics thereby limiting insights gained regarding therapeutic interventions targeting individual targets specifically tailored towards pathological pathways occurring predominantly inside target organelles localized uniquely throughout diverse anatomical sites..   
+
+
+
+**Key takeaways:**
+
+
+
+
+* **Prioritizing Candidate Genes Through Tissuespecific Interactions**: Successfully prioritized cancer driver molecules leveraging newly designed technique called 'TS‐PRINCE'. Compared against conventional methodologies relying exclusively om microarrays expressions estimates delivered superior outcomes showcasing enhanced precision especially concerning rare tumors offering promise toward personalized medicine implementation.<br><BR/>     
+
+
+
+
+
+ * Key finding includes identification key drivers impacting tumor progression alongside systemic side effect mitigation strategy design considerations rooted firmly grounded empirical principles established herein.​

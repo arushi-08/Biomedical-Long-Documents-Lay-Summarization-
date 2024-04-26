@@ -1,0 +1,34 @@
+ Summary & Analysis
+
+
+This text describes  an abstract, summarizing "The Design Principles Underlying Budding Yeast Epigenetic Repression" written jointly. Here summarizes highlights extracted directly From Abstract::
+
+
+
+**Key Points:**
+
+
+
+
+* **Model**: Minimalistic computational modeling approaches allow researchers understand fundamental behaviors underlying budgingyeast repression more deeply than ever before.<br>   It identifies conditions leading tothe emergent behaviour characteristic o fbivalency - simultaneous coexistence alongside suppression markers across large genomic distances..<p/>    In addition they uncover new insights regarding roles dots playing outside previously thought boundaries while highlighting existing challenges related t understanding global patterns arising due te inherent noise intrinsic cellular dynamics when attempting tp engineer desired configurations onto living organisms via modulationg epigenome landscapes <P />
+
+
+
+
+
+***Additional Notes ***
+
+
+
+
+
+
+
+•	There exists some ambiguity concerning exact meaning behind marking inactive versus actively repressed promoters since activating marker deposition frequently overlaps wtih repressive promoter markings despite seemingly opposing functions.; hence defining exactly what constitutes activated vs deactivated status remains elusive.( paragraph )
+
+
+
+
+
+
+---

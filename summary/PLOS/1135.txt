@@ -1,0 +1,19 @@
+ Key takeaways
+
+
+This manuscript describes investigations exploring connections amongst placental transcriptional profiles, prenatal biomarkers ("birthweight" - bw),  and early indicators (“Childhood Obesity"-CO) & "Childhood Body Mass Index"(cbmi). They leverage recent advancements involving Genomics Wide Associated Studies(Gwas)-derived summaries along side detailed molecular profiling via Transcriptomics. Their primary objective involves characterizing potential interplay occurring during embryonic formation leading towards lifelong impacts upon metabolism disorders affecting adults worldwide – namely Type II Diabetes Mellitus& Cardiovascular Diseases.(TCDCs):
+
+
+
+**Main Findings:**
+
+
+
+
+* **Placentas exhibit enhanced representation**: Compared wtih Adult Tissue Expression Quantitative Trait Loci' ,(esQTLS ), there exists considerable overrepresentation (~sixfold increase!)of GWA Hits residing inside them when analyzing plazas versus diverse mature organs extracted postnatum,. Notably，the majority (>two thirds') harboring functional changes involve variations impacting nearby transcribed sequences instead directly altering target proteins..   These discoveries emphasize unique susceptibility conferred onto offspring due solely tothe intricate relationship existing betwen genotypes expressed throughout pregnant uterus environments.<br><BR/>     	     		       
+
+
+
+
+
+ * Overlap Between Traits And Transcription Levels Through Shared Genetic Variants Across Tissues From Different Sources:< br>. Although previous researches highlighted disparities regarding magnitudes achieved thru distinct approaches utilized therein,, researchers successfully harmonizes methodologies enabling direct comparison amidst disparate sets comprising newborn babies´ weights alongside bulk measurements encompassing entire populations spanning decades following delivery.&nbsp;&emsp;-The investigators meticulously analyzed interrelationships arising fron tplacenatal expressions combined witn corresponding alterations induced concurrently utilizing identical polymorphic alleles inherited form parents.--They conclude highlighting possible avenues toward mitigating risks pertaining tp adiposity onset stemming precisely froma complex interaction bewteen intrinsic biology coupled wirh external forces acting prenaatlly.**

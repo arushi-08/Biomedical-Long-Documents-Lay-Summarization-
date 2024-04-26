@@ -1,0 +1,34 @@
+ Summary & Implications
+
+
+This paper investigates whether there exists significant variations, among various geographic units ("districts")  within nations (“Guinea”, "Liberia", “Sierra Leonea”) experiencing ongoing severe acute respiratory syndrome(Ebola Virus Disease) pandemic. By analyzing detailed epidemiological records covering hundreds upon thousands instances worldwide through modeling approaches designed specifically accounting hierarchy inherent real world scenarios involving clusters rather single focal locations—the researchers find substantial disparities exist locally while highlighting similarities nationally despite considerable regional variability seen elsewhere globally..
+
+
+
+**Key Findings:**
+
+
+
+
+• **High Heterogeneity**: Estimated Basic Reproduction Number Of Infection Rate Across Different Geographic Locations Within Nations During Outbreak And Its Relationship With Urbanization Factors Like High Density Populations Or Wealth Index Score Which Are Associated Positive From Country Level Estimates But Not Nationally Between Countries Where Many Districcts Had Low Levels Over Time That Were Below Thresholds Indicating Potential Biases Related Either Data Quality Issues OR Lack Control Measures Implementation Despite Lower National Prevalence Rates Than Previously Published Studies Through Model Comparisons.<br>        	 • Significant Variation Exists Among Affected Areas Even After Accounting Hierarchy Structure Into Models Used Here Hence Need More Detailed Analyses Beyond Single Point Estimate Per Region/Country Given Limited Available Information About Specific Location Dynamics.** <p/>
+
+
+
+
+
+---
+
+
+
+
+
+
+
+***Additional Notes ***
+
+
+
+
+
+
+In addition tot he above key takeaways please note following additional details regarding methodology :     ﻿\\n​--Data Collection:<ol><li>"We utilized recently released databases containing comprehensive aggregate surveillance date pertaining primarily laboratory confirmation" </ li>- Weekly Case Counts Reported via Various Sources Including Confirmed Cases Plus Probable ones Combined Together Till Total Incident Count Was Established.</oli></ul>\t\ nAnd finally... Please include references citing sources referenced textually along side notes wherever applicable

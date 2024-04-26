@@ -1,0 +1,34 @@
+ Summary & Implications
+
+
+This paper investigates  the collective behaviour exhibited during intra cellular transportation processes involving multiples Kinesine molecules. Key takeaways include :
+
+
+
+**Main Findings:**
+
+
+
+
+* **Moaning Mechanism**: Mutantmotors possessing stalled powers comparable, but slightly less potent   than applied Load Force dominate overall Transport Properties despite constituting only minority within Ensemble.: Under specific circumstances,,mutant engines compete successfully due largely because attaching/detachments become stochastic rather deterministic leading them sometimes dominating total movement patterns irrespective whether outnumbered Wild Type counterparts.. These observations suggest novel therapeutic targets related directly onto Single Mutants' Stall Forces,.
+
+
+
+
+
+***Semi Analytical Method To Analyze Cargo Transportation Through Multiple Proteins.***
+
+
+
+
+
+
+
+The newly presented Semi Analytic Approach significantly simplifies modeling intricate interactions occurring across diverse sets comprising numerous kinds Of Molecular Engines transporting shared cargos simultaneously offering substantial advantages Over existing approaches including extensive numerical Simulations:. With minimal resource requirements Compared Against alternative methodologies relying upon Markov Chain Techniques., accurate Probability Distributions Across Various Configurations Can Be Achieved Efficiently utilizing Matlab Implementation offered alongside Model Details Within Supporting Information Section One.(S)
+
+
+
+
+
+
+---Additional Notes----::--,,,-----~~ ~~ ~------------------------~ ---->>  Conclusion  ***Summary**** ****Implications*****    -------> Future Directions~~~ ﻿

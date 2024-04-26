@@ -1,0 +1,19 @@
+ Summary & Implications
+
+
+This paper analyzes  mtRNA sequencing reads extracted form individuals worldwide. It finds significant correlations among various aspects, namely :
+
+
+
+**HapLogoup Clustering:** Different pathological MTNDNA Mutations tend towards associating themselves onto distinct lineages rather randomly distributing throughout their genomic landscapes like most neutral polymorphic variation does.. Approximately thirty percent out if total analyzed variance exhibited statistically valid groupings according tot he chosen metric implemented via fisher' s Exact Test (. P value threshold= .<br>.o)
+
+
+
+
+<strong>Age Distribution</strong> - Variants showing high levels pathology scoring appear disproportionately often amongst newer mitochondria DNAS while decreasing progressively over increasing evolutionary distances measured utilizing rho statistics reflecting coalescent timing models,. Similar trends apply irrespective pf potential biases introduced upon removal individual dominant allelic forms per sequnce prior conducting comparative assessments.(Wilcoxson rank sum U Tests).
+
+
+
+
+
+The results presented offer novel insights regarding hereditary Mitochondrial Diseases etiology involving complex interactions amidst demographic history combined molecular biology processes influencing susceptibility toward illness manifestation along specified ancestral pathways represented thru distinctive microevolutionary histories encoded primarily inside mitrochondrial genomics variability

@@ -1,0 +1,21 @@
+ Summary & Analysis
+
+
+This manuscript describes  the establishment, validation，and application   of novel genetically modified rodent Models designed primarily intended toward studying advanced hormone receptor positive(HR+) locally advance diffuse intrinsicbreastcancer. Key takeaways below summarize key highlights :
+
+
+
+**Model Establishment:** The authors successfully created "tMGFP" trangenicmice bearing simultaneous deletion Of rbfa / tpga And brcalla mutational status commonly seen clinically amongst patients diagnosed With HR+ tumours.. Through detailed histological examinations it became apparent That concurrent inhibitionOf ALL THREE tumour suppression factors resultedIn aggressively growing neoplasms displaying characteristics comparableTo those arising From humans sufferingFrom claudininLow or Basall like cancerous growths,. Additionally,, overexpression OF keratosepin receptors alongside impaired functionality exhibited enhanced malignancy hallmarks typical Within basally driven malignancies highlighting its utility As therapeutic targets against Advanced BCIs upon further investigation.<br>
+
+
+
+
+ **Validation**: Despite achieving widespread tumoral regression post treatmentWith targeted therapies targeting various downstream mediators involved therein., unfortunately none achieved complete eradication hence necessitating alternative strategies aimed towards improving efficacy particularly considering resistance encountered routinely witnessed amidst late stage presentations.(Abstract)
+
+
+
+
+
+
+
+ Conclusion Overall Impact On Clinical Translation:<BRACAAlthough promising insights emerged regarding pathological behaviors underpinning complex interactions Between metabolic vulnerabilities inherent TO THE TARGETED PATHWAY AND transcriptional programs driving growth arrest underlining limitations currently faced By clinicians treating individuals battling formidable yet rare subsets comprising predominantly elderly women presenting later stages involving substantial challenges stemming FROM lack Oftumour specific biomarkers coupled WITH Limited effectiveness achievable THROUGH current modalities utilized widely throughout clinics today,( Abstract).

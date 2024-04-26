@@ -1,0 +1,34 @@
+ Summary:  Understanding Intratumor Heterogeneity Through Cellular Automata Modeling
+
+
+This paper explores various aspects related, specifically focusing upon intra tumorous homogeneity. Here'a breakdown summarizing key points :
+
+
+
+**Key Findings:**   
+
+
+
+
+* **Cell Proliferation Potential Drives Tumor Growth**: Increased prolifration potentila boosts Non Stem Cancer Celll(CC) popualtion leading competitive exclusion against SCSCs thereby inhibiting tumour progresssion; conversely reduced promilferations reduces intertumoural competiton enabling faster scCs multiplication..    
+
+
+
+
+
+The researchers propose several novel insights regarding cancerous tumours through extensive modeling usingcellular automatas - virtual representations mimicking real life scenarios involving thousands if no tens thousand interacting agents like bacteria,. They find substantial variations among cancers stemming primarily fro differences inherent characteristics exhibited across organ types & aging processes rather thtan changes induced solelyby pathological conditions associated wtih malignancy development over timrre spaning decades even under identical starting circumstances.<br>
+
+
+
+
+
+
+
+Here below highlights additional takeaways ;
+
+
+
+
+
+
+• Tumours comprise heterogenous mixtures o fcells exhibiting varied behaviours governed largely y underlying molecular mechanisms influencing behaviour patterns collectively shaping macroscopic outcomes.;           	             		           ﻿ ​\\n />;_---__--~----->| |_|___||_/ \_\_.--~~ ~~-->tumor volume expands rapidly.\\\N​ \\o-----'/ \__/ _/_|\_____\-/\/\_\_/-._.-~~~ --> gradual spread beyond primary site.\S CSc drive exponential growths whereas altered balance betwen Sccs AND NONSCCS determines whether neoplasms grow aggressively OR linger indefinitely.(Fig.**). As far back ass embryonic developmental stages there exists variability amongst individuals hence it stands reason tp expect considerable disparities existin gcancerous formations arising fron same origins.{ }

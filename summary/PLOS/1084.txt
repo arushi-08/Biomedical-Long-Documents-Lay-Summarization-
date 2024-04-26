@@ -1,0 +1,27 @@
+ Summary  
+
+
+This paper explores computational modelling approaches applied towards understanding biological processes within hemostasis, specifically focusing påhe intricate interplay amongst various molecules participating therein. This investigation delves deeply ito understand delicate equilibrium states achieved throughout numerous biochemical events occuring concurrently – namely enzyme activations &amp;, molecule bindings& amp;. Through detailed analyses employing sophisticated numerical methods combined wtih comprehensive validation procedures utilizing diverse empirical benchmarks,, insights pertaining tot eh inherent vulnerabilities ("fragile") aspects influencing effective targeting interventions aimed precisely altering said equilibria emerged..
+
+
+
+**Key takeaways:**   
+
+
+
+
+•	Model accurately captures dynamic behavior related tahtrombigenisis triggered by Tissue Factor Pathway Inhibitors(TFPs) AND Activated Partial Thomblastinin Time ActivatorInhibitors.(ATI). 
+
+
+
+
+
+ • Significant discrepancies exist betwen modeled predictions regarding TFPis' impacts vs actual outcomes highlighting limitations currently hindering accurate forecasting capabilities even though substantial progress made recently.<br>
+
+
+
+
+
+
+
+---

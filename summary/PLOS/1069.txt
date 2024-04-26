@@ -1,0 +1,27 @@
+ Summary & Discussion
+
+
+This text describes computer simulation exploring various scenarios related  with single celll migration. Here' s summarizes highlights, limitations,, potential extensions::
+
+
+
+**Highlights:**   The primary objective aims toward elucidating underlying principles governing intracellular organization associated wtih amoeboid motions exhibited collectively across diverse living organisms.. Through extensive numeric investigations conducted utilizing reduced dimensionality modelling approaches combined wiht detailed comparisons versus experiments., crucial information regarding equilibrium configurations attained under specific sets parametric controls emerged.:
+
+
+
+
+* **Model Validation**: Simulations successfully reproduced qualitative characteristics displayed previously reported concerning individual keratinocites traveling alongside representative substrates ; namely slender elongated fronts commonly referred ta "keratocyte" morphology featuring prominent central depletion zone comprising adhered molecular complexes,. These outcomes serve validation benchmarks utilized lateronfor assessing theoretical predictions derived fronr he presented modlels.;
+
+
+
+
+
+ * ***Turning Dynamics*** – Underpinning microscopic motor activity driving directed translocation involves intricate interplay among internal pressure imbalances induced primarily governed bye actoin cytoskeletal arrangements near borders separating adjacent segments pf tecell surface,,,Our investigation unveiled novel geometric transformations characterizing spontaneous emergence os sharp turns despite inherent symmetries embedded itogethering systems describing traction process,; thereby providing new perspectives pertaining tothe diversity seen i actual migratingcells.**
+
+
+
+
+
+
+
+Despite successful reproduction o f numerous facets intrinsic yo mobile behaviour captured earlier empirical observation;, substantial room still exits foe improvement:. Future endeavors encompassing extension beyond confined bidimensional spaces appear promising avenues fo advancing comprehension surrounding coordinated multicellular behaviours frequently encountered int naturaal settings.., Additionally incorporating sophisticated rheological considerations pertinent tp tissue formation kinetics offers promise fir deeper appreciationo teh delicate dance betwen geometrical constraintsand hydrodynamic interactions dictated solely hy thee unique topology oftececellular membranes.***

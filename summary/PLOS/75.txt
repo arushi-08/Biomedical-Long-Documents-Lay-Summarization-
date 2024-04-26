@@ -1,0 +1,34 @@
+ Summary:  Autism Diagnosis Through Metabolomic Profiling With Multivariable Statistics
+
+
+This manuscript explores metabolic profiling combinedwith machine learning algorithms, specifically discriminant functional ANOVA(DFA)andKernel Partial Least Squares Regression,(KPLSR),to identify autistic disorder. Participants' plasma metabolomicsdata along various markers related tothe FolATE dependentOne Carbon Metabolism Pathway were analyzed against healthycontrols.<br>
+
+
+
+**Key Findings:**<li>- DFA accurately classified nearly ninety percentofASD subjects relative nonneurotypicals whereas KPLOutput yielded superior predictionsfor overall symptom severities.</ li><BR>. <LI/>A clear relationship existsbetween specific biomarker panels comprising glutamate derivatives like FGSHandtGSTH alongside others involving cysteine derivative ratios observed amongparticipants displaying varying degreeson impairment rangingfrom moderate toslightSymptoms.(Li)<Br></ LI>/ul
+
+
+
+
+---
+
+
+
+
+
+ Implications:<ol list style="-" type=a">
+
+
+
+
+
+
+
+* **Early detection**: Identifying reliable molecular signatures could pave way forearlydetection allowing interventions aimedat improving treatment efficacy.&nbsp;(Satterfield & Baron‐Cohen&amp;,﻿ объект).
+
+
+
+
+
+
+ * Improved diagnostics:* By integrating genomics， proteometics ，metagenomics 、behavior assessments ANDother omic technologies together we might attain greaterdiagnostic precision enabling clinicians make timely decisions about therapeutic options sooner rather later..(Kumar,& amp;& Brown,;n d.).   Therefore advancing our capacity detect autismand optimize treatments will depend heavilyupon advancements beyond traditional methodologies relying primarily just cognitive evaluations alone.**

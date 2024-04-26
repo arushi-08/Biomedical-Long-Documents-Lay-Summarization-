@@ -1,0 +1,34 @@
+ Summary  of Findings
+
+
+This paper investigates mechanisms underlying interplay among HistONE remodeler BRGM, Human PRESTIN Complex One alpha(hp) members - particularly focusing primarily around Chromodomain Interaction Shadow Dock. Here' s key takeaways;
+
+
+
+**Key Observations:**   
+
+
+
+
+* **Sha dock mediates attachment**: Both hpSPRY complexes utilize shared acidic patches across various substrates through electrostatic attraction involving positively charged lysines against negatively charge phospholipids embedded deepwithin hydrophobic pockets formed mainly along side chains extending beyond helical fold boundaries – hence "shadocking." Although there exists substantial structural similarity amongst individual components comprising Spry Complexes throughout evolution,, differences exist regarding specific residue arrangements leading variations even though overall topology remains conserved.. Additionally unlike most bromocriptins characterized predominantly towards nuclear receptors whose primary objective involves altering ligand conformation prior engagement,. SPRY utilizes SHADOCK specifically toward dynamic changes induced directly adjacent thereto once attached firmly enough already deeply buried beneath layers covering surface features normally inaccessible unless modified extensively.(See figure below).
+
+
+
+
+
+---
+
+
+
+
+
+
+
+| Key Finding | Explanation / Conclusion   |\n--|-- |\ n|- Interactions occur mostly near exposed surfaces.| \—_| With slight alterations relative positions might change dramatically depending på exact conformations adopted.<br>﻿ \__)|
+
+
+
+
+
+
+***

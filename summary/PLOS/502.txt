@@ -1,0 +1,27 @@
+ Summary:  Chemo taxis Model Based On Self -Generated Cycles Of Pseudpods
+
+
+This paper proposes, tests & discusses modeling approaches inspired upon newly discovered insights regarding cellular behavior. Specifically focusing primarily onto pseudopad creation via intracellular signaling systems associated wtih bacterial motion toward chemical attractions called "chemokinesis." Recent discoveries revealed discrepancies concerning traditional Compass Models commonly employed throughout literature describing chemoreception phenomena occurring due largely owing partly inadequate representation provided therein pertaining specifically t o actual underlying physics governing microorganism locomotion behaviors exhibited alongside spatial variations encountered locally along various surfaces comprising natural environments surrounding living organisms..   
+
+
+
+**Key Findings:**
+
+
+
+
+* **Pseudo pod centered ("PS")Model**: Successfully captures diverse aspects inherent taht characterize genuine mammalian Cells undergoing Chemorrhisms e g., persistency,, polarity,,,and modulation involving lateral extensions initiated adjacent tot he nucleus,. All outcomes stemming fronm PS modelling align closely wih empirical observation enabling precise quantification& validation against available datasets encompassing numerous experiments conducted utilizing fluorescent markers combined withe microscopic imaging techniques designed explicitly tailored tp track intricate behaviours displayed collectively amongst heterogeneous populations pf leukocytes navigating amidst varying concentrationsgradients comprised solely synthetic chemokines.;
+
+
+
+
+
+ * New finding : Under certain circumstances---namely extreme attraction intensity--cells exhibit spontaneous symmetry breaking resultingin unique arrangements whereby nascent buds extend straight ahead instead forming characteristic curves extending outward perpendicular yo opposing ends,; thereby mimicking scenarios routinely witnessed i n nature wherein microorganisms congregate en masse beneath attractive substances distributed unevenllayacross landscapes featuring sharp boundaries.(MovieS)
+
+
+
+
+
+
+
+In conclusion，this manuscript presents compelling evidence suggesting psudopopd centred (“ps”)models offer superior efficacy compared conventionalCompassModels currently dominating prevailing discourse sur ceomotaxis.--These latter fail miserably capture subtle yet pivotal nuances characterizing true multicellular navigation strategies deployed deploying sophisticated mathematical frameworks rooted firmly grounded theoretical principles guiding microbial mobility.<br>

@@ -1,0 +1,27 @@
+ Summary & Implications
+
+
+This manuscript explores implementations  of Slow Feature Analysis(S FA) -a framework designed around "Temporal Stability" principles, utilizing either Continuous ModelNeuronsor Spike Timing Dependent PlasticITY. While achieving comparable outcomes through various approaches might seem intuitive dueto inherent variability across trials involving physical systems including living organisms,(e..g., slight variations causedby saccades), actual computations involved therein differ substantially among theoretical frameworks versus neurobiological reality.(The majority portion).
+
+
+
+**Key Findings:**
+
+
+
+
+* **Continuous vs Spikes**: Despite differencesin computational methodologies utilized throughout each respective methodology utilizes distinct assumptions about transmittinginformation--continuous modulationvia electrical impulsesversus discrete pulses carried outthrough precise timings.--the core essence remains unchanged --namely identifying patternsthat evolve gradually amidst noisy backgrounds despite inevitable fluctuations arisingfrom external factors affecting perception,.   
+
+
+
+
+
+ * Implementation ThroughHebbsianLearning Rule-: Demonstrated successfullyimplementedSlowFeatureAnalysis employingmodified hebbianlearningrulewithin Linear ContinousModelNeuron---offering connection tothe TraceRule technique widely adopted elsewhere.., highlighting shared conceptual underpinningsbetween diverseimplementations stemming fronmthese fundamental concepts guidingsensoryprocessing pathways,,,and potentially sheddinglight upon intricate cognitive tasks undertaken daily.,.
+
+
+
+
+
+
+
+In conclusion,,this investigation bridges gaps existing amongst theories rooted firmly groundedinsymptoms exhibitedduring perceptual experiences,;bridging disparities encounteredwhen attempting translate observationsinto concrete quantitative metrics,--leading towards deeper insights pertaining specifically toshowcasesachievements accomplished solely relyingonST DP plasticities.,,

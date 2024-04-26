@@ -1,0 +1,34 @@
+ Summary  of Findings
+
+
+This paper investigates theoretically, through mathematical modeling combinedwith extensive computational validation via Simulations. How Selection Pressure Impacts Single Population Samples Versus Divergent Populations Using Measures Like D N_D Ratio And Their Relationship Between Each Other Which Provides Insights Into Evolutionary Processes Of Proteins From Different Biological Systems Including Humans
+
+
+
+**Key takeaways:**   
+
+
+
+
+* **Relationship tussen selectie presuur op een populatie van individuen vs afgeleide stammen**: De verhouding mellem de keuzedruk voor verschillende populatiewijken wordt niet lineair maar kan onder bepaalde omstandigheden zelfs negatief zijn bij het vergelijking met gemengde stades uit dezelfde bevolkingsgroep ("single sampling"). Dit betekent dat deze meting geen betrouwbare indicaties geeft naar aannames die worden gemaakt tijdens analyseën waarvooruitgangen werden gebruikt als například differentiële substitutie behoeftes zoals DNA Sequencing heeft kunnen leiden tot misleidende conclusies wanneer men alleenSamples binnen één enkele gemeenschap gaat Analyzeert zonder rekening te houden Met hun verwanteerdheid tegen andereutifulsamples..
+
+
+
+
+
+The key points discussed include :
+
+
+
+
+
+
+ - Standard interpretations relying solelyon pairwise distances fail dramatically once polymorphic equilibrium frequencies deviate substantiallyfrom equal probabilities dueto ongoing speciation event occurring continuously throughoutthe analyzed molecular clock history.(Abstract)
+
+
+
+
+
+
+
+In addition，this manuscript provides detailed information regarding various aspects including derivation(stationary Distribution), auxiliary Conditions,(Model Parameters).

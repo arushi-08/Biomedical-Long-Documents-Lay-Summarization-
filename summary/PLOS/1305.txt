@@ -1,0 +1,34 @@
+ Summary & Relevance
+
+
+This manuscript describes successful implementations  of "EPINMIC" -a point‐care, lab−Based Surveillance System—in Rural Villages Of Diéllo And NiacharrIn Western Sénégal. It highlights challenges faced throughout setup process along side benefits achieved through improved healthcare delivery via POCT technology adoption within resource limited settings..
+
+
+
+**Main Findings:**
+
+
+
+
+* Successfully deployed Epimic sytem across Two PoC labs serving diverse communities; increasing accessibility towards prompt medical interventions against contagious illnesses thanks largely owing poct testing capabilities ; enabling timely diagnoses despite geographical limitations common amongst remote regions.;    
+
+
+
+
+
+The deployment showcased here serves several key objectives : 
+
+
+
+
+
+
+
+ * Providing insights into regional trends regarding infection prevalence thereby aiding policymakers design targeted intervention measures tailored toward addressing outbreaks promptly.<br>
+
+
+
+
+
+
+It offers substantial advantages relative previous approaches employed primarily focused upon centralized facilities rather decentralized setups commonly encountered amidst underserved environments.:  ﻿<BR>. With minimal investment requirements coupled alongside ease operation procedures designed explicitly catering individuals lacking extensive technical expertise,;the platform facilitates widespread utilization even where infrastructure constraints exist.**

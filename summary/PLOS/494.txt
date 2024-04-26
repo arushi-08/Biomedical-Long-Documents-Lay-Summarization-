@@ -1,0 +1,19 @@
+ Summary & Analysis
+
+
+This text describes "Confidence Biases During Reinforcement Learning"  which investigates individual errors, specifically confidences judgements. Although there exists substantial debate surrounding appropriate metrics reflecting uncertainties inherent throughout sequential sampling procedures involving uncertain events occurring through action selection ("reinforcement"), researchers often rely upon self‐reported certainty assessments (“confidances”) alongside behavioural indicators derived primarily form immediate sensory inputs delivered concurrently together – albeit potentially misleadingly––with outputs resulting uniquely following particular actions taken ([Slovic&Heathcote](n). Thus understanding precisely why humans make certain judgement calls given incomplete knowledge presents considerable challenges since behaviours stemming entirely depend heavily relying inferences drawn exclusively concerning past experiences combined possibly inaccurate beliefs held pertaining particularly towards novel scenarios encountered previously unobserved circumstances.(p)
+
+
+
+**Key Findings:**
+
+
+
+
+* **Outcome Valence Bias**: Outcomes influencing high valences generate greater trust leading people making less cautious selections whereas low valued signals induce caution thus generating distrustful behaviour against riskier alternatives(gain-/loss-) inducing distinct error profiles reflected mainly though variations seen amongst diverse populations participating actively engage themselves differently whilst engaging strategically employing varied techniques designed predominantly around maximizing personal benefit.**   
+
+
+
+
+
+In conclusion，this manuscript explores existing theories highlighting key aspects impacting peoples` reliance placed excessively onto readily accessible yet imperfect representations extracted inadvertently amidst noisy backgrounds noise introduced intentionally earlier encounters,(i.) poor initial impressions established early stages tend dominate later evaluations unless interventions targeting memory systems intervene effectively enough preventing undue impact arising disproportionately owing partly perhaps excessive optimism exhibited especially evident immediately efter experiencing favorable developments;(ii,) however inadequate training practices fail adequately equip novice learners sufficiently enabling mastery comparable achieved effortlessly attained proficiency gained accrued experience accumulated overtime.--

@@ -1,0 +1,13 @@
+ Lay Summary & Implications
+
+
+This paper introduces "gGsashimi," an open source Python library designed explicitly  for visualizing alternatively spliced isoforms. Unlike other tools, GGShimis offers various distinctive functionalities including simultaneous display comparisons among numerous experimental replicates grouped according their biological characteristics directly onto SASHI diagrams generated via commonly used genomics format inputs without requiring annotations specific solely dedicated standalone utilities like MISOSushi nor integration inside platforms dependent upon extensive configuration procedures similar those employed when utilizing integrative Genomic viewer(IGv). This novel approach significantly enhances accessibility compared against previous solutions enabling effortless incorporation seamlessly integrating readily accessible visualizations alongside standard pipelines involving massive datasets derived either form Encode Project[**REF:**ENCODE PROJECT URL HERE]**or comparable initiatives offering unparalleled insights regarding differential transcript regulation mechanisms underlying diverse cellular contexts..
+
+
+
+ Relevance Within Scientific Context :   The prevalence Of Splicing Events And Their Visualization Challenges     
+
+
+
+
+Alternative mRNA processing plays pivotal roles shaping proteome diversity hence understanding precisely where they diverge becomes paramount yet presenting challenges due primarily stemming From spatial separation coupled With limited visual representations tailored expressly addressing comprehensive analyses encompassing vast numbers sample sets simultaneously.<br> GSSHiMi bridges gaps inherent contemporary approaches thereby paving way forward towards deeper exploration leveraging standardized input options widely adopted throughout molecular biology investigations thus simplifying complex workflows associated previously cumbersome manual interventions required elsewhere making widespread adoption much easier.&nbsp;

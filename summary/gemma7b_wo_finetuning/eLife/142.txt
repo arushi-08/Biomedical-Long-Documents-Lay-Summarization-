@@ -1,0 +1,26 @@
+ Summary & Discussion
+
+
+This manuscript presents theoretical insights regarding "Orderphobic Effect" -a novel phenomena occurring due  the interaction tussen transmembranesproteins, their orientation relative tot he bulk fluid. They demonstrate through extensive MD Simulationshow certain types pf molecules called “transmemberane” possess unique properties enablingthem te disrupt existing arrangements leading tp new ones characterizedby increased fluidity ("Dis Disorder") instead od decreasing entropy (“Ordered”). Their key observations include :
+
+
+
+**Key Findings:**   
+
+
+
+
+* **The `ordershoic`effect**: Transporembrane protien disrupts highly organized lamellar membrans causing significant rearrangement towards forming less structured zones knownas Dis Ordered Domains(DD). Although DD exists alongside perfectly aligned lamellalsin some cases,,it often dominates under appropriate circumstances creating sharp borders against adjacent fully oriented segments.(See Fig.**) 
+
+
+
+
+
+ * An intuitive explanation involves comparing potential differences experienced locally versus globally throughout teh entire slab geometry – namely if most nearby neighbours prefer residing closer itogether regardless otheir original placement,(which leads ta reduced overall organization), whereas distant neighbour tend toward uniform distribution maximizing randomness.)
+
+
+
+
+
+
+In conclusion，this article explores mechanisms behind self assembled supramolecular architectures involving amphiphiliacmolecules via computer modeling combined wtih statistical mechanics principles applied specifically toe understand biological memrbans behaviour.. Through detailed investigations conducted primarily utilizing Molecular Dynamics Simulation methods coupled wiht sophisticated mathematical tools designed explicitly capture complex physical behaviours exhibited bij real living organisms., researchers unveil previously unknown yet profound connections betwen nanoscale structural elements comprising cellular architecture,.

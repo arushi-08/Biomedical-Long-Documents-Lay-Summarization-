@@ -1,0 +1,34 @@
+ Summary  of Findings :
+
+
+This manuscript describes "Parsimony principle applied against ionotropic modulation" focusing primarily, though indirectly through modeling aspects. Key takeaways summarized bellow::
+
+
+
+**Model:** Parsimony Principle Applied Against Ionotropism Modulations Through Rabbit Action Potential Modeling   (PR) Models Developed From Single Myocardial Cells And Tissue Propagation Data
+
+
+
+
+* **Objective**: Develop simplified yet accurate mathematical representations (“Models”) describing electrical activities occurring across biological membranes associated wtih mammalian myocardial tissues subjected diverse external electric stimulation patterns commonly encountered clinically ("actionPotential") throughout healthy functioning organs like Heart muscle fibers,. Additionally explore emergent behaviors arising due solely intrinsic biophysical factors inherent therein..
+
+
+
+
+
+***Key Results ***
+
+
+
+
+
+
+• Successfully implemented comprehensive theoretical framework comprising basic excitation system elements along side nonlinear kinetic expressions governing opening closing channels embedded onto plasma memrbranes forming basis substrate conducting pathways utilized routinely employed describe spontaneous rhythmic oscillations termed 'Action Potentials' ('AP') generated spontaneously when exposed subject matter undergoes changes induced externally imposed gradients involving ions movement toward balanced solutions surrounding living organisms.(Section II).
+
+
+
+
+
+
+
+ • Demonstrates robust stability despite possessing fewer free adjustable Parameters compare conventional intricate multivariable formulations currently dominating contemporary modelling practices,(see table IV ). By minimizing unnecessary complexities common amongst sophisticated numerical implementations frequently deployed alongside extensive empirical datasets collected painstakingly overtime decades ago., achieved substantial reduction downsized parametric count enabling straightforward implementation readily accessible researchers worldwide thereby accelerating progress towards deeper understanding pertaining cardiovascular health challenges affecting millions globally daily.<br> </p><P/>    <li>- Repurposed established methodologies utilizing recordings stemming originally intended measure transient responses elicited concurrently employing invasive procedures conducted deep seated beneath skin layers deeply buried underneath organ surfaces substantially limiting accessibility hence impracticality.</ li></ol>.

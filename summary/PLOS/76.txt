@@ -1,0 +1,34 @@
+ Summary & Conclusion
+
+
+This paper presents  a comprehensive geographically referenced longitudinal modelling framework, utilizingBayesian geostatistics techniques，to investigate incidencesof Cutaneous(CL)and Visceral Leprosy（VL）disease across Brazilian territory. It incorporates extensive datasets comprising yearly municipal records spanning ten consecutiveyears。The primary objective involves generating detailed prevalence estimations alongside exploring key drivers behind its geographic spread through various socioenvironmentalfactors like climate variability、vegetation indices،sanitation practices 、socioeconomic standing etc.. Additionally ，the investigation aimsat assessing risks posedbyboth illnesses concurrently considering individual vulnerabilities alongwith community demographics features 。
+
+
+
+**Key Findings:**
+
+
+
+
+* **Spatial Distribution**: High Resolution Maps depict accurately localized hotspotsfor Both Diseases highlighting regions requiring immediate attention towards controlling infections.<br>   <p/>      <li>- Estimated Number Of Cases Per State Provides Valuable Insights Into Disease Prevalence And Allocation Resources Efficiently.</ li>< br>. </ul></ol>,
+
+
+
+
+
+ * Spatial Variance Is Greater Than Temporal Variation indicating Limited Impact Through Time Compared Across Locations RatherThan Within Them.**
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+In spite Despite Its Limitations Such Models Offer Significant Advantages Including AbilityTo Generate Accurate Predictions Where No Other Surveillance Systems Exist While Providing Comprehensive Risk Assessments That Can Guide Control Programs Successfully.`

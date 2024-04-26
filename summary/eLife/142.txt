@@ -1,0 +1,34 @@
+ Summary & Analysis
+
+
+This manuscript presents theoretical insights regarding "Orderphobic Effect" -a novel phenomena occurring due  the interaction tussen transmembranesproteins, their assemblies. Key takeaways include :
+
+
+
+**The `ordershoic` Force:**    It describes attraction towards disorded areas instead od preferential associationwith highly organized ones.. Its origin liesin competitionbetween bulk entropy gain favoring homogeneity versus potentialenergy reduction achieved through segregationof molecules basedon affinity differences toward certain portions o flipidbilayrs,.
+
+
+
+
+* **Strength&Range**: Compared conventional electrostatic attractions betweeen charged ions,,thisforce spans longer ranges (~ tens nanometers) yet generates comparable magnitudes foceforces(up tp hundreds kiloberts).
+
+
+
+
+
+ * Unlike traditional adhesion mechanisms involving localized attachment sites ("affinity"), orders phobia utilizes entire edgesoft he membrance curvature thereby influencing organization beyond individualmolecule pairs.(See Fig.**_iv_)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+In conclusion，these observations suggestthat incorporating explicit account oft eh second virial coefficient leads tot better descriptionf fluid mixtures under confinement including biologicalsystemswhere exclusion principles apply naturally.--

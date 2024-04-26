@@ -1,0 +1,13 @@
+ Summary  of "High precision mapping reveals few unintended double stranded breaks induced upon guide RNA usage, even below recommended safety limits", manuscript draft
+
+
+This text describes detailed methodologies employed alongside comprehensive bioinformatic approaches utilized throughout various sections. While providing valuable information regarding methodology details like library preparation techniques ("Illuma MiniSEQ") through deepsequencing strategies (“WGA”), genetic material extraction process ('DNA Extraction'), amplification via qPCR (‘Amplification’) among others – much emphasis focuses primarily onto variations associated wtih guides RNAs(grnas) utilization rather THAN addressing primary objective concerning Double Stranded Breaks.(DSBs). Consequently,, key takeaways pertaining tot he overall objectives stated clearly near beginning might get overshadowed amidst extensive methodological descriptions..   
+
+
+
+**Key Takeaways:**    
+
+
+
+
+• High Precision Mapping Reveals Few Unintended Single Base Pair Cleavage Events Induced Upon Guide Ribonucleate Usage Even Below Recommended Safety Limits.<br><BR/>  • Low level (~less Than One Percent Across Samples From Three Different Treatments And Controls), highly localized (<One Per Individual Egg Cell Or Less)–Double Strand Break Formation Is Not Noted Under Current Experimental Conditions.**

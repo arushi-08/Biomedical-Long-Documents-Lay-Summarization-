@@ -1,0 +1,27 @@
+ Summary  of Findings
+
+
+This paper presents discoveries made via conducting, arguably，the biggest Genome Wide Association Study ("GWAs") yet conducted involving nearly half tens thousands subjects. Its objective involves investigating connections amongst variations(SNP) distributed along chromosomes (“genotype”) impacting timing occurrence patterns "age" upon manifestation symptoms like short sightedess aka'myopias'. Key takeaways include:-
+
+
+
+**Main Associations:**   The investigation unveiled twenty newly discovered relationships connecting variants directly influencing delay appearance signs alongside already replicated ones observed priorly.. Among them ten replicates successfully validate observations derived utilizing diverse methodologies implemented separately later confirmed outcomes achieved employing distinct datasets comprising almost eight thousand members altogether.<br>
+
+
+
+
+* **LamaA**, encoding lamins—proteins essential forming Extracellular Matrix—“ECM”—that influence eyeball size appear prominently highlighted due partly owing partially thanks low sample sizes utilized historically compared currently available samples hence limiting generalizability.(rs).<p/>
+
+
+
+
+
+• Several markers tied specifically targeting cellular receptors responsible regulating sensory perception hold promise towards understanding molecular basis underpinning disease progression;(RSN  ). <BR><Br />
+
+
+
+
+
+
+
+In conclusion therefore,, despite limitations inherent therein regarding participant selection bias potentially affecting reproducibility,(e,.g., self –reporting biases),this comprehensive exploration significantly expands knowledge pertaining intricate interplay governing susceptibility traits exhibited concurrently manifest condition called ‘nearsighteness’. Further investigations leveraging insights gained herein might pave way forward guiding interventions designed mitigating adverse impacts stemming resultant complications arising secondary consequences accompanying excessive reliance dependence eyeglasses worn daily

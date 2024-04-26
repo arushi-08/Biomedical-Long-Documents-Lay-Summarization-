@@ -1,0 +1,34 @@
+ Summary & Conclusion
+
+
+This manuscript describes  a new method, called "de Novo Design Of Translation Inhibitory Ribonucleins" ("TiRi") methodology. It provides guidelines regarding designing highly potent ribo suppressants capable if regulating bacterial physiology via targeted suppression pf transcript elongation initiated downstream form promoters commonly found across microbial genomes.. Key takeaways below summarize key aspects discussed throughout :
+
+
+
+**Key Takeaways:**
+
+
+
+
+* **High Repression**: Tiri achieved up tp nearly perfect reduction (~<~%)in GFP intensity despite minimal changes made directly onto transcripts themselves highlighting effectiveness over traditional overexpression strategies relying primarily off intrinsic ribosomal pause sites present upstream portions near promoters instead altering them entirely,.   The ability eliminate unwanted side reactions involving alternative targets offers advantages especially advantageous considering toxicity concerns associated manipulating core elements involved therein.<br>     
+
+
+
+
+
+ * High variability exists amongst individual titra'S efficacy emphasizing challenges inherent during optimization procedures aimed toward achieving optimal outcomes consistently utilizing similar methodologies deployed routinely elsewhere.(e g., Gaussian noise distribution).
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+In conclusion,,,,,the newly presented technique holds promise improving future endeavors focused optimizing therapeutic interventions leveraging repurposed biochemical machinery tailored explicitly regulate bacteria behavior according intricate molecular dynamics governing intracellular activities leading ultimately improved drug discovery capabilities

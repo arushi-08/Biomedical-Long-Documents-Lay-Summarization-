@@ -1,0 +1,34 @@
+ Summary & Discussion
+
+
+This manuscript investigates architectural dependencies within endothelium, specifically focusing upon Collective IntraCellular Communication(GJCC)-drivencalcium signalling. It explores whether spatial arrangements affect  the timing ("oscillation")and magnitude (“amplitude”)of intracelluarCa<sup>²</sup> signals initiatedbyhistameinecontraction pathways involving adjacent living units called "neighboring"or “coupled”Cells.. Here' s summarizekey points :
+
+
+
+**Key Findings:**
+
+
+
+
+* **Architecture Dependence**: Comparedwithmonolayer cultures where many neighbouring connections exist (~eight), isolated SingleCellswill rarely oscillate even though they contain comparable amounts OfCalcium ions like Mono layers.(Fig.**S****)The oscillating behaviour emerges because there exists threshold sensitivity related directly tothe NumberOf NeighbourINGCELLsin close proximity.<br>   <p/>      <a href="text"> </span><b style='font weight=bold'>Figure reference:<space>(See Figure ****)</ b></ p >
+
+
+
+
+
+ * Architecture dictateswhetherintercallaredCA<sub></sub>signals synchronize amongst neighbours leadingToOscillatory behaviours versus sustained elevation,(Figs.***&amp;***). Althoughelectricalcoupling contributes greatly toward rhythmic pulsatilebehaviourIn ensembles comprising few elements,,bulkier arrays tend toshow dampened synchrony owing primarily itopen circuit limitations imposed By diffusive spreading ของions;(see Model section below)**.)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+ Models Explain Architectural Dependencies Through Electrical And Chemical Coupling Mechanisms ﻿	It appearsthat架构依赖ธ์timulated periodic variations intracytoplasmic free[ca++]concentration mainly arise FromElectrical AND CHEMICAL COUPLING BETWEEN NEIGHBORIng CELLsand NOT solely mechanical forces arisingfromcontraction”(fig**. *** ). Accordingtothe theoretical framework proposed here，these phenomena emergeFrom complex interplaybetween several variables - namely restingmembranepotential،intracelullarfree ca++ flux balance achievedvia leakagesometimes referred tooas capacitance charging,,,And finally molecular interactions underlying cadherens adhesion molecules.--These intricate dance determinesWhetherInterconnectedness yields synchronous swings OR spontaneous localized bursts OF ACTIVITY characteristicOfthese fascinating emergent phenomenon.].

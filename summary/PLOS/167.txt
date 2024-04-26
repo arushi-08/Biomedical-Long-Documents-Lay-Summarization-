@@ -1,0 +1,34 @@
+ Summary & Discussion
+
+
+This manuscript presents  RE ANIMATE, an innovative Computational Framework capable Of simulating tumor Microflow Dynamics Based On Ex Vivo Tumor Vasculare Networks. Key highlights includes :
+
+
+
+**Model Design:**   The Model utilizes anatomical representations obtained From Optical Clearing Techniques enabling precise quantification And characterizations OF THE TUmor microstructure With Single Cell Resolution Through UseOf Permeabilities That Capture Intravaskular Transport Processes Within Tumors 
+
+
+
+
+* **High Spatial Resolutions**: Achieved thanks TO Explicit Representation Via Discrete Network Structures Which Enable Examination At Cellular Level Without Averting Complex Geometry Or Large Scale Simulations﻿
+
+
+
+
+
+•	In Silicos Predictions Are Highly Comparable Against Experiment Measurements Demonstrating Their Validity Across Various Biological Samples
+
+
+
+
+
+
+
+***Key Findings ***
+
+
+
+
+
+
+ - Incorporation Spatiallheterogeneity Into Models Can Provide InsightsInto How Fluid Dynamic Changes Impact Treatment Response ; e., Drug Delivery Strategies Could Be Improved Given Accurate Representations Over Time Course Anatomic Features Such AS Intercellular Distances Between Vessels AND Intravoxel Pressure Gradients Although Not Previously Replicated Fully Till Now!    These discoveries pave Way FOR Development Novel Therapeutics Targeting Specific Aspects If tumoral Hemostatis While Minimized Side Effects Compared Traditional Treatments Currently Employed Clinical Practice

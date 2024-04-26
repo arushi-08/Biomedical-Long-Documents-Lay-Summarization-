@@ -1,0 +1,19 @@
+ Summary & Key Findings
+
+
+This report describes, through computer simulations conducted via Agent Based Modeling techniques applied upon epidemiologic datasets gathered across selected Argentinian Villages.  The objective sought validation regarding whether existing theoretical frameworks adequately capture scenarios involving repeated encounters among susceptible organisms harboring diverse strains ("mixed" parasitic DNA profiles) stemming initially either form newly acquired inoculaion (“primary”) sources OR post reinocculations arising due natural shedding mechanisms inherent amongst chronically ill patients (‘chronic’) carrying multiclonal mixtures reflecting prior exposures throughout lifetime interactions - commonly termed "Mixed Infections".   In brief overview highlights include :
+
+
+
+**Reinfecions vs Primary Infection:** Model fits indicate substantial discrepancies exist relative solely relying exclusivelyon pure infectivity kinetics without considering additional aspects influencing viral spread – namely incomplete antibody responses induced subsequent successful establishment alongside widespread mixing behaviors exhibited concurrently amidst naturally infecting insects residing inside homes.. Therefore combined forces driving Mixed Infectioins involve inadequate humoral defenses failing entirely rather limited capacity afforded towards preventing fresh challenges posed mainly emanating fron freshly inoculated source material delivered inadvertently onto surfaces accessible readily tot he general populace,. Given sufficient opportunities offered thru close proximity coupled wtih poor hygiene practices common place locally,, recurrent assaults instigating renewed rounds o f invasion emerge frequently thereby contributing markedly toward elevated burdens experienced collectively.,.
+
+
+
+
+<strong>Rate Of Recruitsment Into Chronic Phase</strong>  It'S crucial understand precisely what proportion pf acutely sick subjects eventually transition ito chronicity since estimating accurately impacts accurate management interventions designed specifically targeting late complications emerging overtime.<br> Through extensive numerical experimentation utilizing sophisticated simulation tools capable incorporating real world ecological variables pertaining ta local settings situated deep rooted firmly int eh remote countryside encompassing numerous small towns., researchers arrived ar novel insights concerning recrutments occuring routinely beneath seemingly benign circumstances prevailing therein.., highlighting vulnerabilities intrinsic tp certain vulnerable demographics subject ongoing surveillance protocols aimed mitigating burden imposed y excessive clinical manifestation manifested manifestin severe pathology.,,
+
+
+
+
+
+Overall Results From Simulations Conducted Across Two Rural Communities Situated Within Remote Areas Deeply Endemic foe Transmission Vectors And Human Populations Were Found Intriguingly Similar Between Models That Explicitally Accounted fir Both Acute AND Late Post Exposure Events Leading TO THE ESTABLISHMENT OF MIXED INFECTION AS WELL THOSE THAT DIDN`T,,, suggesting considerable efficacy imparted BY HOST IMMUNE SYSTEM AGAINST REINOCULATION BUT NOT COMPLETE PROTECTION Against Subsequent Challenges Presented Via Direct Contact WITH PRIMARY SOURCE MATERIAL.**

@@ -1,0 +1,19 @@
+ Summary & Conclusion
+
+
+This manuscript describes novel techniques developed  for accurate, yet surprisingly Robust Prediction Gene Expression Across Human Individuals Based On Their Genotype. It explores challenges related specifically targeting variations near promoters ("cis") instead focusing primarily upon distant regulators (“Trans”) influencing global transcript abundance via alterations induced through epigenetic mechanisms like covalent modification involving histones – often referred simply "expression QTN" - highlighting difficulties therein despite recent advancements made towards achieving reliable estimates under diverse conditions ([i].e., tissue specificity).   The primary objective involves devising methodologies capable consistently translating genotypic diversity encoded predominantly amongst neighboring Single Nucleotide Polymorphisms(SNPs) residing close enough (~within ~ hundred kilobases), directly onto actual transcriptional activity fluctuations experienced individually unique samples drawn randomly chosen participants worldwide—a challenging problem owing partly attributed incomplete understanding regarding molecular basis underlying interindividual phenotypic disparities arising solely attributable genetics versus environment influences acting concurrently alongside intrinsic cellular heterogeneity stemming potentially widespread allelic variant deployment strategies implemented broadly against cancer treatment interventions designed uniquely tailored toward personalized medicine principles.[^b](See abstract.)
+
+
+
+**Key Findings:**
+
+
+
+
+* Multi‐snps Models Outperform Simple SnP Model With Improved Accuracy And Reduced Overfittting : Compared sidebyside utilizing identical datasets comprising roughly equivalent numbers SNPS distributed uniformly about target transcripts’ loci encompassing promoter sequences up till distal boundaries spanning hundreds thousands base pairs beyond coding segments —multi snp modeling frameworks generally yield superior outcomes reflecting greater consistency irrespective future sample composition bias introduced inadvertently whilst optimizing biomarker discovery procedures aimed ultimately improving healthcare efficacy.(Abstract paragraph  five summarizes core points effectively!)
+
+
+
+
+
+In closing remarks authors emphasize limitations pertaining mainly limited applicability tied closely bound exclusively employing locally accessible markers situated physically adjacent immediate physical surroundings surrounding targeted mRNA molecules leading naturally raises questions concerning generalizability particularly considering systemic complexity underpinned intricate relationships governing dynamic equilibrium prevailing intracellular environments impacting metabolic pathways regulating myriad physiological traits collectively shaping phenotype manifestation.<br>

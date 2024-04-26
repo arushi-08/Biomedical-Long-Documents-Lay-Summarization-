@@ -1,0 +1,31 @@
+name: nlp
+channels:
+  - pytorch
+  - huggingface
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - scikit-image
+  - pandas
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch::pytorch-cuda=11.8
+  - transformers
+  - huggingface::datasets
+  - accelerate
+  - cuda
+  - tqdm
+  - matplotlib
+  - pip
+  - sentencepiece
+  - pip:
+    - peft
+    - bitsandbytes
+    - trl
+    - flash-attn
+prefix: /ihome/cs2731_2024s/ars539/miniforge3
+
