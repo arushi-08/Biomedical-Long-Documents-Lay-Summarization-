@@ -11,7 +11,7 @@
 
 ### Run experiments with Huggingface models
 
-Gemma LoRA finetuning: `python lora_finetune_gemma7b.py`
+Gemma LoRA finetuning: `python lora_finetune_gemma7b.py` (requires GPU server with 45+ GB RAM)
 
 Gemma inference pipeline: `python gemma_inference_eli5.py`
 
@@ -22,5 +22,3 @@ Long T5 LoRA finetuning with BRV method:
 <hr />
 
 ### Summaries saved in summary dir.
-
-(Not recommended) Downloads more than 10GiB of data by scraping financial website. Can be run using `download_news_data.py`
