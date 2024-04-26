@@ -15,8 +15,10 @@ Gemma LoRA finetuning: `python lora_finetune_gemma7b.py` (requires GPU server wi
 
 Gemma inference pipeline: `python gemma_inference_eli5.py`
 
-Long T5 LoRA finetuning with BRV method:
+Long T5 LoRA Inference with BRV method:
 `python brv_summarization_LongT5.py`
+
+Long T5 LoRA finetuning: `lora_finetine_LongT5_pubmed.py`
 
 BioGPT inference pipeline: `python biogpt_inference.py`
 
