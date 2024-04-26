@@ -18,6 +18,7 @@ Gemma inference pipeline: `python gemma_inference_eli5.py`
 Long T5 LoRA finetuning with BRV method:
 `python brv_summarization_LongT5.py`
 
+BioGPT inference pipeline: `python biogpt_inference.py`
 
 <hr />
 
