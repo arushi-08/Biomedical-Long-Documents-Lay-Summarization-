@@ -1,8 +1,4 @@
-# LLM Summarization
-
-### Course: CS2731 Introduction to Natural Language Processing
-
-<hr />
+# Biomedical Long Documents Lay Summarization using Large Language Models
 
 ### Environment setup
 
